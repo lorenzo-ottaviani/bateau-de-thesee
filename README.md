@@ -1,2 +1,2 @@
-# bateau_de_thesee
+# Le bateau de Thésée
 Projet de bateau de Thésée avec des classes.
